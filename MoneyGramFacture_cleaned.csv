@@ -1,0 +1,3 @@
+settlement_id,business_date,settlement_currency,event_date,net_total_tran_count,net_total_base_amt,net_total_base_amt_stl,net_total_fee_amt,net_total_fee_amt_stl,net_total_fx_rev_share,net_total_fx_rev_share_stl,net_total_commission_amt,net_total_commission_amt_stl,net_total_adjustments,net_total_adjustments_stl,net_total_total,net_total_total_stl
+130936912,2024-12-07,EUR,2024-12-07,879,-138335322.0,-210890.8,329735.0,502.67,0.0,0.0,-71222.0,-108.54,0.0,0.0,-138076809.0,-210496.67
+130936913,2024-12-07,EUR,2024-12-07,846,0.0,0.0,0.0,0.0,-214267.0,-326.66,-781632.0,-1191.14,0.0,0.0,-995899.0,-1517.8

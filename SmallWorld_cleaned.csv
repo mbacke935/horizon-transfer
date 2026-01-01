@@ -1,0 +1,2 @@
+date,ref,code_agence,agence,agent,pays_souce,destination,devise_source,montant_source,devise_dest,montant_destination,taux,frais_ht,bcu,hq_commission,total_taxe,taxe1,taxe2,taxe3,taxe4,taxe5,montant_ttc,commission_agence,commission_agent,montant_facture,status,type
+2024/07/11 15:46:59,RC948157245818,3783,SN - ORABANK SENEGAL - SOPRIM,SN - ORABANK SENEGAL  NETWORK,GABON_C,SENEGAL,XAF,100000.0,XOF,100000.0,1.0,2059.0,0,0,0,0,0,0,0.0,0,0,0,617.7,-100617.7,PROCESSED,PAIEMENT
